@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PingPongTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-28T11:43:17" hostname="moringa-Lenovo-ideapad-130-15IKB" time="0.003">
+  <properties/>
+  <testcase name="runPingPongTest_replaceMultiplesOf3_ArrayList" classname="PingPongTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
